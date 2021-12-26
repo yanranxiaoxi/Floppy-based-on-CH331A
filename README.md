@@ -14,6 +14,8 @@
 
 将 24C256 替换为 24C512 可以简单地将存储空间提升至 64KiB。请注意，需要选用 SOP-8 封装的存储芯片，而不是更为常见的 TSSOP-8 封装。
 
+本 PCB 设计已通过完整功能性测试，且已添加 [嘉立创](https://www.jlc.com/) SMT 定位孔，可直接进行 SMT 贴片生产。但请注意，本设计完整开源并遵循 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 开源协议，开源作者不对作品的安全性、完整性作任何承诺，且不对因此产生的任何损失承担后果。
+
 你可以使用本项目的 [焊接助手](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/-/raw/master/InteractiveHtmlBom/index.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 自动生成。
 
 ## 🛠️ 生产电路板
@@ -28,7 +30,13 @@
 
 1. 克隆本项目 [源代码](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/-/archive/master/Floppy-based-on-CH331A-master.zip) 到本地
 2. 在立创 EDA 标准版编辑器中选择 `文件` -> `打开` -> `立创EDA...`
-3. 选择本项目源代码中的 `/EasyEDA/1-*.json` 文件并分别导入
+3. 选择本项目源代码中的 `/EasyEDA/*.json` 文件并分别导入
+
+## 🔤 字体
+
+警告：本项目包含仅个人使用（禁止商用）的字体素材，虽然本设计授权用户在开源许可范围内的商业目的使用，但是项目所使用的字体库并不包含在该授权范围内，商业使用时请注意处理版权风险。
+
+- SAO UI Regular | [下载](https://www.deviantart.com/darkblackswords/art/Sword-Art-Online-Font-Download-426603647) | [官方](https://www.deviantart.com/darkblackswords/art/Sword-Art-Online-Font-342305125) | Only for Personal Use, Not for Commercial Use
 
 ## 📜 开源许可
 
