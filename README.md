@@ -2,6 +2,9 @@
 
 ⭐ 基于 CH331A 的模拟软盘 ⭐
 
+[![pipeline status](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/-/commits/master)
+[![Latest Release](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/-/releases)
+
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/Floppy-based-on-CH331A)
 
 ![实拍图](https://downloadserver.soraharu.com:7000/Floppy%20based%20on%20CH331A/Image/Product_quality_5.jpg)
@@ -12,11 +15,13 @@
 
 本作品采用 CH331A 芯片作为主控，24C256 作为存储芯片，可以提供~~高达~~ 32KiB 的存储空间。提供板载写保护开关，有效保护软盘的数据安全。
 
+## 🍭 使用说明
+
 将 24C256 替换为 24C512 可以简单地将存储空间提升至 64KiB。请注意，需要选用 SOP-8 封装的存储芯片，而不是更为常见的 TSSOP-8 封装。
 
 本 PCB 设计已通过完整功能性测试，且已添加 [嘉立创](https://www.jlc.com/) SMT 定位孔，可直接进行 SMT 贴片生产。但请注意，本设计完整开源并遵循 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 开源协议，开源作者不对作品的安全性、完整性作任何承诺，且不对因此产生的任何损失承担后果。
 
-你可以使用本项目的 [焊接助手](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/-/raw/master/InteractiveHtmlBom/index.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 自动生成。
+你可以使用本项目的 [焊接助手](https://interactivehtmlbom.soraharu.com/Floppy-based-on-CH331A.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 流水线自动化生成。
 
 ## 🛠️ 生产电路板
 
