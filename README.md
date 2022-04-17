@@ -4,6 +4,7 @@
 
 [![pipeline status](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/-/commits/master)
 [![Latest Release](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A/-/releases)
+[![vercel](https://vercelbadge.soraharu.com/?app=interactivehtmlbom)](https://interactivehtmlbom.soraharu.com/)
 
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/Floppy-based-on-CH331A) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/Floppy-based-on-CH331A) | 🔗 [GitHub](https://github.com/yanranxiaoxi/Floppy-based-on-CH331A)
 
